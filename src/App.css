@@ -1,0 +1,5 @@
+/* App styles are now handled by Tailwind CSS */
+
+body {
+  @apply bg-gradient-to-br from-primary-50 via-neutral-50 to-accent-50 dark:from-neutral-900 dark:via-neutral-950 dark:to-primary-900;
+}
